@@ -1,0 +1,32 @@
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\obj\Debug\Client project.exe
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\obj\Debug\Client project.pdb
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\bin\Debug\Client project.exe.manifest
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\bin\Debug\Client project.application
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\bin\Debug\Client project.exe
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\bin\Debug\Client project.pdb
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\bin\Debug\Common classes.dll
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\bin\Debug\Remoting Dll.dll
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\bin\Debug\Common classes.pdb
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\bin\Debug\Remoting Dll.pdb
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\obj\Debug\Client project.csprojResolveAssemblyReference.cache
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\obj\Debug\Ofir_Meri.frmClient.resources
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\obj\Debug\Ofir_Meri.Properties.Resources.resources
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\obj\Debug\Client project.csproj.GenerateResource.Cache
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\obj\Debug\Client project.exe.manifest
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Client project\obj\Debug\Client project.application
+C:\Users\ofir\Desktop\FilesSharing\Client project\obj\Debug\Client project.exe
+C:\Users\ofir\Desktop\FilesSharing\Client project\obj\Debug\Client project.pdb
+C:\Users\ofir\Desktop\FilesSharing\Client project\bin\Debug\Client project.exe.manifest
+C:\Users\ofir\Desktop\FilesSharing\Client project\bin\Debug\Client project.application
+C:\Users\ofir\Desktop\FilesSharing\Client project\bin\Debug\Client project.exe
+C:\Users\ofir\Desktop\FilesSharing\Client project\bin\Debug\Client project.pdb
+C:\Users\ofir\Desktop\FilesSharing\Client project\bin\Debug\Common classes.dll
+C:\Users\ofir\Desktop\FilesSharing\Client project\bin\Debug\Remoting Dll.dll
+C:\Users\ofir\Desktop\FilesSharing\Client project\bin\Debug\Common classes.pdb
+C:\Users\ofir\Desktop\FilesSharing\Client project\bin\Debug\Remoting Dll.pdb
+C:\Users\ofir\Desktop\FilesSharing\Client project\obj\Debug\Client project.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Desktop\FilesSharing\Client project\obj\Debug\FilesSharing.frmClient.resources
+C:\Users\ofir\Desktop\FilesSharing\Client project\obj\Debug\FilesSharing.Properties.Resources.resources
+C:\Users\ofir\Desktop\FilesSharing\Client project\obj\Debug\Client project.csproj.GenerateResource.Cache
+C:\Users\ofir\Desktop\FilesSharing\Client project\obj\Debug\Client project.exe.manifest
+C:\Users\ofir\Desktop\FilesSharing\Client project\obj\Debug\Client project.application

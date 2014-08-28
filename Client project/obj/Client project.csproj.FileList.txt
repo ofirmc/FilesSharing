@@ -1,0 +1,16 @@
+bin\Debug\Client project.exe
+bin\Debug\Client project.pdb
+bin\Debug\Common classes.dll
+bin\Debug\Common classes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Client project.csproj.GenerateResource.Cache
+obj\Debug\Client project.exe
+obj\Debug\Client project.pdb
+obj\Debug\Ofir_Meri.frmClient.resources
+obj\Debug\Ofir_Meri.Properties.Resources.resources
+bin\Debug\Remoting Dll.dll
+bin\Debug\Remoting Dll.pdb
+bin\Debug\Client project.exe.manifest
+bin\Debug\Client project.application
+obj\Debug\Client project.exe.manifest
+obj\Debug\Client project.application

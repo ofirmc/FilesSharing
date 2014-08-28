@@ -1,0 +1,22 @@
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\bin\Debug\Server project.exe.config
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\bin\Debug\Server project.exe
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\bin\Debug\Server project.pdb
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\bin\Debug\Common classes.dll
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\bin\Debug\Common classes.pdb
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\obj\Debug\Server project.csprojResolveAssemblyReference.cache
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\obj\Debug\Ofir_Meri.frmServer.resources
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\obj\Debug\Ofir_Meri.Properties.Resources.resources
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\obj\Debug\Server project.csproj.GenerateResource.Cache
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\obj\Debug\Server project.exe
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Server project\obj\Debug\Server project.pdb
+C:\Users\ofir\Desktop\FilesSharing\Server project\bin\Debug\Server project.exe.config
+C:\Users\ofir\Desktop\FilesSharing\Server project\bin\Debug\Server project.exe
+C:\Users\ofir\Desktop\FilesSharing\Server project\bin\Debug\Server project.pdb
+C:\Users\ofir\Desktop\FilesSharing\Server project\bin\Debug\Common classes.dll
+C:\Users\ofir\Desktop\FilesSharing\Server project\bin\Debug\Common classes.pdb
+C:\Users\ofir\Desktop\FilesSharing\Server project\obj\Debug\Server project.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Desktop\FilesSharing\Server project\obj\Debug\FilesSharing.frmServer.resources
+C:\Users\ofir\Desktop\FilesSharing\Server project\obj\Debug\FilesSharing.Properties.Resources.resources
+C:\Users\ofir\Desktop\FilesSharing\Server project\obj\Debug\Server project.csproj.GenerateResource.Cache
+C:\Users\ofir\Desktop\FilesSharing\Server project\obj\Debug\Server project.exe
+C:\Users\ofir\Desktop\FilesSharing\Server project\obj\Debug\Server project.pdb

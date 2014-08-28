@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AllExtension>
+  <Extension>
+    <csExtension>.cs</csExtension>
+    <txtExtension>.txt</txtExtension>
+    <slnExtension>.sln</slnExtension>
+    <suoExtension>.suo</suoExtension>
+    <resxExtension>.resx</resxExtension>
+    <csprojExtension>.csproj</csprojExtension>
+    <exeExtension>.exe</exeExtension>
+    <dllExtension>.dll</dllExtension>
+    <pdbExtension>.pdb</pdbExtension>
+  </Extension>
+</AllExtension>

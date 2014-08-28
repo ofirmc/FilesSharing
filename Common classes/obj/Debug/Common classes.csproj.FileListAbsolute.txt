@@ -1,0 +1,8 @@
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Common classes\bin\Debug\Common classes.dll
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Common classes\bin\Debug\Common classes.pdb
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Common classes\obj\Debug\Common classes.dll
+D:\Ofirc# Zipped backup\PorjectsZipped\Final Course Project - ofir meri\Common classes\obj\Debug\Common classes.pdb
+C:\Users\ofir\Desktop\FilesSharing\Common classes\bin\Debug\Common classes.dll
+C:\Users\ofir\Desktop\FilesSharing\Common classes\bin\Debug\Common classes.pdb
+C:\Users\ofir\Desktop\FilesSharing\Common classes\obj\Debug\Common classes.dll
+C:\Users\ofir\Desktop\FilesSharing\Common classes\obj\Debug\Common classes.pdb

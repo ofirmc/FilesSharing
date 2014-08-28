@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileDetails>
+  <fileDetail>
+    <FileName>Resources.Designer</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>2841</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\flysim1\flysim1\Properties</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>flysim1.csproj.FileList</FileName>
+    <Extension>.txt</Extension>
+    <FileSize>268</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\flysim1\flysim1\obj</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Resources</FileName>
+    <Extension>.resx</Extension>
+    <FileSize>5612</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\flysim1\flysim1\Properties</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Connection</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>1766</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\Comm</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>socketCollection</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>711</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Resources.Designer</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>2847</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\Properties</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>frmClient</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>5782</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>frmClient.Designer</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>8971</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>frmConnection</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>822</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>frmConnection.Designer</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>7425</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Resources.Designer</FileName>
+    <Extension>.cs</Extension>
+    <FileSize>2847</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\Properties</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm.csproj.FileList</FileName>
+    <Extension>.txt</Extension>
+    <FileSize>122</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\Comm\obj</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatServer.csproj.FileList</FileName>
+    <Extension>.txt</Extension>
+    <FileSize>417</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\obj</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient.csproj.FileList</FileName>
+    <Extension>.txt</Extension>
+    <FileSize>419</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\obj</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient</FileName>
+    <Extension>.sln</Extension>
+    <FileSize>1869</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient</FileName>
+    <Extension>.suo</Extension>
+    <FileSize>77824</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Resources</FileName>
+    <Extension>.resx</Extension>
+    <FileSize>5612</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\Properties</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>frmClient</FileName>
+    <Extension>.resx</Extension>
+    <FileSize>6212</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>frmConnection</FileName>
+    <Extension>.resx</Extension>
+    <FileSize>6214</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Resources</FileName>
+    <Extension>.resx</Extension>
+    <FileSize>5612</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\Properties</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.csproj</Extension>
+    <FileSize>2034</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\Comm</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatServer</FileName>
+    <Extension>.csproj</Extension>
+    <FileSize>4301</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient</FileName>
+    <Extension>.csproj</Extension>
+    <FileSize>4326</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatServer</FileName>
+    <Extension>.exe</Extension>
+    <FileSize>28672</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\obj\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatServer</FileName>
+    <Extension>.exe</Extension>
+    <FileSize>28672</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatServer.vshost</FileName>
+    <Extension>.exe</Extension>
+    <FileSize>5632</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient</FileName>
+    <Extension>.exe</Extension>
+    <FileSize>28672</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\obj\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient</FileName>
+    <Extension>.exe</Extension>
+    <FileSize>28672</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient.vshost</FileName>
+    <Extension>.exe</Extension>
+    <FileSize>5632</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.dll</Extension>
+    <FileSize>16384</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\Comm\obj\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.dll</Extension>
+    <FileSize>16384</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\Comm\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.dll</Extension>
+    <FileSize>16384</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.dll</Extension>
+    <FileSize>16384</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.pdb</Extension>
+    <FileSize>13824</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\Comm\obj\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.pdb</Extension>
+    <FileSize>13824</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\Comm\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatServer</FileName>
+    <Extension>.pdb</Extension>
+    <FileSize>48640</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\obj\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatServer</FileName>
+    <Extension>.pdb</Extension>
+    <FileSize>48640</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.pdb</Extension>
+    <FileSize>13824</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatServer\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient</FileName>
+    <Extension>.pdb</Extension>
+    <FileSize>54784</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\obj\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>ChatClient</FileName>
+    <Extension>.pdb</Extension>
+    <FileSize>54784</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\bin\Debug</FilePath>
+  </fileDetail>
+  <fileDetail>
+    <FileName>Comm</FileName>
+    <Extension>.pdb</Extension>
+    <FileSize>13824</FileSize>
+    <UserIP>127.0.0.1</UserIP>
+    <FilePath>C:\Documents and Settings\Administrator\Desktop\ChatProject\ChatClient\bin\Debug</FilePath>
+  </fileDetail>
+</fileDetails>

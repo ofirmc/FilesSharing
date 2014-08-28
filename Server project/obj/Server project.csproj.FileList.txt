@@ -1,0 +1,11 @@
+bin\Debug\Server project.exe
+bin\Debug\Server project.pdb
+bin\Debug\Common classes.dll
+bin\Debug\Common classes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Server project.csproj.GenerateResource.Cache
+obj\Debug\Server project.exe
+obj\Debug\Server project.pdb
+obj\Debug\Ofir_Meri.frmServer.resources
+obj\Debug\Ofir_Meri.Properties.Resources.resources
+bin\Debug\Server project.exe.config
